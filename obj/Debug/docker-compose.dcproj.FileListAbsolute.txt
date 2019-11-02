@@ -1,0 +1,5 @@
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\bin\Debug\KYC_AzaKaw_Core.dll
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\bin\Debug\KYC_AzaKaw_Core.pdb
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\obj\Debug\docker-compose.dcproj.CopyComplete

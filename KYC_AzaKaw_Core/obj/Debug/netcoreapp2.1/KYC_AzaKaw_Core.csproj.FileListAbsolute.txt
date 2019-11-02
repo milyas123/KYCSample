@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\KYC_AzaKaw_Core\bin\Debug\netcoreapp2.1\KYC_AzaKaw_Core.deps.json
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\KYC_AzaKaw_Core\bin\Debug\netcoreapp2.1\KYC_AzaKaw_Core.runtimeconfig.json
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\KYC_AzaKaw_Core\bin\Debug\netcoreapp2.1\KYC_AzaKaw_Core.runtimeconfig.dev.json
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\KYC_AzaKaw_Core\bin\Debug\netcoreapp2.1\KYC_AzaKaw_Core.dll
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\KYC_AzaKaw_Core\bin\Debug\netcoreapp2.1\KYC_AzaKaw_Core.pdb
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\KYC_AzaKaw_Core\obj\Debug\netcoreapp2.1\KYC_AzaKaw_Core.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\KYC_AzaKaw_Core\obj\Debug\netcoreapp2.1\KYC_AzaKaw_Core.RazorAssemblyInfo.cache
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\KYC_AzaKaw_Core\obj\Debug\netcoreapp2.1\KYC_AzaKaw_Core.RazorAssemblyInfo.cs
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\KYC_AzaKaw_Core\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\KYC_AzaKaw_Core\obj\Debug\netcoreapp2.1\KYC_AzaKaw_Core.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\KYC_AzaKaw_Core\obj\Debug\netcoreapp2.1\KYC_AzaKaw_Core.AssemblyInfo.cs
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\KYC_AzaKaw_Core\obj\Debug\netcoreapp2.1\KYC_AzaKaw_Core.RazorTargetAssemblyInfo.cache
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\KYC_AzaKaw_Core\obj\Debug\netcoreapp2.1\KYC_AzaKaw_Core.dll
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\KYC_AzaKaw_Core\obj\Debug\netcoreapp2.1\KYC_AzaKaw_Core.pdb
+C:\Users\pc\source\repos\KYC_AzaKaw_Core\KYC_AzaKaw_Core\obj\Debug\netcoreapp2.1\KYC_AzaKaw_Core.csprojAssemblyReference.cache
