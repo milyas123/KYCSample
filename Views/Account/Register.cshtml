@@ -1,0 +1,79 @@
+﻿
+@{
+    ViewData["Title"] = "Register";
+}
+
+    <div class="wrap-login100 p-t-50 p-b-0">
+        <form class="login100-form validate-form" asp-action="Register" asp-controller="Account" method="POST">
+            <div class="login100-form-avatar">
+                <img src="~/images/registeriimage.jpg" alt="AVATAR">
+            </div>
+
+            <span class="login100-form-title p-t-20 p-b-45">
+                Azakaw Registration
+            </span>
+
+            <div class="wrap-input100 validate-input m-b-10" data-validate="Full Name is required">
+                <input class="input100" type="text" name="FirstName" id="FirstName" placeholder="First Name">
+                <span class="focus-input100"></span>
+            </div>
+
+            <div class="wrap-input100 validate-input m-b-10" data-validate="Last Name is required">
+                <input class="input100" type="text" name="LastName" id="LastName" placeholder="Last Name">
+                <span class="focus-input100"></span>
+            </div>
+
+            <div class="wrap-input100 validate-input m-b-10" data-validate="Email is required and should be valid">
+                <input class="input100" type="text" name="email" id="email" placeholder="Email">
+                <span class="focus-input100"></span>
+            </div>
+
+            <div class="wrap-input100 validate-input m-b-10" data-validate="Password is required">
+                <div class="input-group">
+                    <input class="input100 input-pwd" type="password" name="password" id="password" placeholder="Password">
+                    <span class="focus-input100"></span>
+                    <div class="input-group-addon" style="border-radius: 0px 24px 23px 0px;position: absolute;right: 0px;top: 0px;padding: 12px;" id="show_hide_password">
+                        <a href=""><i class="fa fa-eye-slash" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="container-login100-form-btn p-t-10">
+                <input type="submit" value="Register" class="login100-form-btn" style="cursor:pointer">
+            </div>
+
+            <div class="text-center w-full p-t-25 p-b-80">
+                <a href="#" class="txt1">
+                    Already have an account ? Click here  @Html.ActionLink(" Login", "Login", "Account", null, new { @class = "txtLnk" })
+                </a>
+            </div>
+            @if (ViewBag.Message == "Success")
+            {
+                <div id="message">
+                    <div style="padding: 5px;">
+                        <div id="inner-message" class="alert alert-success">
+                            <button type="button" class="close" data-dismiss="alert">&times;</button>
+                             User registered succesfully
+                        </div>
+                    </div>
+                </div>
+            }
+            @if (ViewBag.Message == "Error")
+            {
+                <div id="message">
+                    <div style="padding: 5px;">
+                        <div id="inner-message" class="alert alert-danger">
+                            <button type="button" class="close" data-dismiss="alert">&times;</button>
+                            Sorry, Something went wrong (Check if the User already registered)
+                        </div>
+                    </div>
+                </div>
+            }
+        </form>
+    </div>
+        <script>
+            function ValidateRegister(obj) {
+                $(obj).submit();
+            }
+        </script>

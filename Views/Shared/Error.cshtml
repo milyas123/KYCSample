@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "";
+}
+<style>
+    .txtLnk{text-decoration:underline}
+</style>
+<div class="wrap-login100 p-t-50 p-b-0">
+
+    <form class="login100-form" validate-formasp-action="Login" asp-controller="Account" method="POST">
+        <div class="login100-form-avatar">
+            <img src="~/images/internalerror.jpg" alt="AVATAR">
+        </div> 
+            
+        <div class="text-center w-full p-t-25 p-b-80" style="  color: white !important;">
+            Sorry we are facing technical challenges to process you request,  @Html.ActionLink("click here to go to Login Page", "Login", "Account", null, new { @class = "txtLnk" })
+        </div> 
+    </form>
+</div> 
